@@ -1,0 +1,160 @@
+{
+  "data": {
+    "articles": [
+      {
+        "title": "5 Amazing Math Tricks",
+        "description": "It's a beautiful day",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551436731/ta9d5xbeskea7xi5q2ik.png",
+        "author": {
+          "name": "Flying Turtle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "A Special Article",
+        "description": "A day to remember",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551211295/euws1xn36ym5nfeqepws.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "A Simple Article",
+        "description": "Some Description",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551263798/x7qrzjsl6nqw8chmkrn8.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "A Demo Article",
+        "description": "A day to remember",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551262472/o8w5uitxgyvqrebjmdiv.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "Is This Final?",
+        "description": "From Grace To Grass",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551211539/xbnqmpg5aiy3manbv9at.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "Great Ways of Life",
+        "description": "A day to remember",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551211347/iseiwgy1mw9doubjpppe.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "Greatest Articles of All Time",
+        "description": "Greatest Articles of All Time",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551211295/euws1xn36ym5nfeqepws.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "Great Men Of Old",
+        "description": "A day to remember",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551208117/lfgolx4abwskaydb0ixt.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "The Lifes of The Greats",
+        "description": "Some Description",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551208017/nsrb84tsocg2w7tqtstk.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "The Article Cover",
+        "description": "From Grace To Grass",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551207530/gtetrsfynoqfrzubpjqt.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "Evolving Life",
+        "description": "A day to remember",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551207118/kdgoqdxogntbemeaepya.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "No Regrets",
+        "description": "Some Description",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551206749/tef5aluppetwyx7xdlai.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "The Judas of Science",
+        "description": "A day to remember",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551206506/o2dbud1na8svmowmbdq2.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      },
+      {
+        "title": "An Article to Behold",
+        "description": "Some Description",
+        "coverImageUrl": "https://res.cloudinary.com/hba821/image/upload/v1551206124/fourximta5phhmcimdk6.jpg",
+        "author": {
+          "name": "Running Eagle",
+          "country": "Nigeria",
+          "__typename": "Author"
+        },
+        "__typename": "Article"
+      }
+    ]
+  }
+}

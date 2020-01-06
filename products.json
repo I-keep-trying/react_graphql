@@ -1,0 +1,336 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzMxNTMxODM1MDY1MTM=",
+            "title": "thing",
+            "description": "you should buy this thing",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTE1NzA1OTEyMzYxNzc=",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/colorful-sun.jpg?v=1564697873",
+                    "__typename": "Image"
+                  },
+                  "__typename": "ImageEdge"
+                }
+              ],
+              "__typename": "ImageConnection"
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yMzc2MTkwNTU0OTM5Mw==",
+                    "title": "mega",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yMzc2MTkwNTU4MjE2MQ==",
+                    "title": "super-mega",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yMzc2MTkwNTYxNDkyOQ==",
+                    "title": "ultimate-mega",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                }
+              ],
+              "__typename": "ProductVariantConnection"
+            },
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzMxOTg5NTg4OTUxODU=",
+            "title": "another thing",
+            "description": "here buy this too",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTE3MjY4NzkyOTM1MjE=",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/earth-space.jpg?v=1565988057",
+                    "__typename": "Image"
+                  },
+                  "__typename": "ImageEdge"
+                }
+              ],
+              "__typename": "ImageConnection"
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yMzkxNTM5MzkwODgxNw==",
+                    "title": "big",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yMzkxNTM5Mzk0MTU4NQ==",
+                    "title": "bigger",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8yMzkxNTM5Mzk3NDM1Mw==",
+                    "title": "biggest",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                }
+              ],
+              "__typename": "ProductVariantConnection"
+            },
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQxOTU2MzkxNjUwMDk=",
+            "title": "Striped Skirt and Top",
+            "description": "Black cotton top with matching striped skirt.",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTI4NDkwODE2Nzk5NTM=",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/woman-in-the-city_925x_34c54a7d-e2a0-48fe-a169-fde33a735aef.jpg?v=1569860384",
+                    "__typename": "Image"
+                  },
+                  "__typename": "ImageEdge"
+                }
+              ],
+              "__typename": "ImageConnection"
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDUwMzI0OQ==",
+                    "title": "xs",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDUzNjAxNw==",
+                    "title": "small",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDU2ODc4NQ==",
+                    "title": "medium",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDYwMTU1Mw==",
+                    "title": "large",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDYzNDMyMQ==",
+                    "title": "xl",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDY2NzA4OQ==",
+                    "title": "xxl",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                }
+              ],
+              "__typename": "ProductVariantConnection"
+            },
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQxOTU2MzkzMjg4NDk=",
+            "title": "Olive Green Jacket",
+            "description": "Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders.",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTI4NDkwODE5NzQ4NjU=",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/urban-fashion_925x_353f971d-ec3e-4218-9437-28cc7cdb0af2.jpg?v=1569860386",
+                    "__typename": "Image"
+                  },
+                  "__typename": "ImageEdge"
+                }
+              ],
+              "__typename": "ImageConnection"
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDgzMDkyOQ==",
+                    "title": "xs",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDg5NjQ2NQ==",
+                    "title": "small",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MDk2MjAwMQ==",
+                    "title": "medium",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MTAyNzUzNw==",
+                    "title": "large",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MTA5MzA3Mw==",
+                    "title": "xl",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3MTE1ODYwOQ==",
+                    "title": "xxl",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                }
+              ],
+              "__typename": "ProductVariantConnection"
+            },
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        },
+        {
+          "node": {
+            "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQxOTU2NDA3MDUxMDU=",
+            "title": "Classic Leather Jacket",
+            "description": "Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMTI4NDkwODU2NDQ4ODE=",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/leather-jacket-and-tea_925x_e917107c-d13e-4260-91a6-0ed33f12e7e1.jpg?v=1569860408",
+                    "__typename": "Image"
+                  },
+                  "__typename": "ImageEdge"
+                }
+              ],
+              "__typename": "ImageConnection"
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3OTI1MjMwNQ==",
+                    "title": "xs",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3OTI4NTA3Mw==",
+                    "title": "small",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3OTMxNzg0MQ==",
+                    "title": "medium",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3OTM1MDYwOQ==",
+                    "title": "large",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3OTM4MzM3Nw==",
+                    "title": "xl",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                },
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8zMDM0NDU3OTQxNjE0NQ==",
+                    "title": "xxl",
+                    "__typename": "ProductVariant"
+                  },
+                  "__typename": "ProductVariantEdge"
+                }
+              ],
+              "__typename": "ProductVariantConnection"
+            },
+            "__typename": "Product"
+          },
+          "__typename": "ProductEdge"
+        }
+      ],
+      "__typename": "ProductConnection"
+    }
+  }
+}
