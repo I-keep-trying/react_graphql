@@ -1,6 +1,7 @@
 import { gql } from 'apollo-boost';
 
-export const getAllArticles = gql`{
+export const getAllArticles = gql`
+{
      products (first: 10) {
     edges {
       node {
@@ -26,4 +27,5 @@ export const getAllArticles = gql`{
       }
     }
   } 
-  }`
+  }
+  `

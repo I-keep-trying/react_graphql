@@ -10,11 +10,7 @@ import { HttpLink } from "apollo-link-http";
 import { onError } from "apollo-link-error";
 import { ApolloProvider } from 'react-apollo';
 import produce from "immer";
-import App from './App1';
-
-/* const client = new ApolloClient({
-  uri: 'https://awesome-node-graphql.herokuapp.com/graphql'
-}) */
+import App from './App';
 
 const errorLink = onError(({ graphQLErrors, networkError, operation }) => {
   if (graphQLErrors) {
@@ -60,3 +56,4 @@ ReactDOM.render(
   </ApolloProvider>,
   document.getElementById('root')
 );
+

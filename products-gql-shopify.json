@@ -1,0 +1,268 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Product/3153183506513",
+            "title": "thing",
+            "description": "you should buy this thing",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductImage/11570591236177",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/colorful-sun.jpg?v=1564697873"
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/23761905549393",
+                    "title": "mega"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/23761905582161",
+                    "title": "super-mega"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/23761905614929",
+                    "title": "ultimate-mega"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/3198958895185",
+            "title": "another thing",
+            "description": "here buy this too",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductImage/11726879293521",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/earth-space.jpg?v=1565988057"
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/23915393908817",
+                    "title": "big"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/23915393941585",
+                    "title": "bigger"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/23915393974353",
+                    "title": "biggest"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/4195639165009",
+            "title": "Striped Skirt and Top",
+            "description": "Black cotton top with matching striped skirt.",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductImage/12849081679953",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/woman-in-the-city_925x_34c54a7d-e2a0-48fe-a169-fde33a735aef.jpg?v=1569860384"
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570503249",
+                    "title": "xs"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570536017",
+                    "title": "small"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570568785",
+                    "title": "medium"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570601553",
+                    "title": "large"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570634321",
+                    "title": "xl"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570667089",
+                    "title": "xxl"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/4195639328849",
+            "title": "Olive Green Jacket",
+            "description": "Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders.",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductImage/12849081974865",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/urban-fashion_925x_353f971d-ec3e-4218-9437-28cc7cdb0af2.jpg?v=1569860386"
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570830929",
+                    "title": "xs"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570896465",
+                    "title": "small"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344570962001",
+                    "title": "medium"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344571027537",
+                    "title": "large"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344571093073",
+                    "title": "xl"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344571158609",
+                    "title": "xxl"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/4195640705105",
+            "title": "Classic Leather Jacket",
+            "description": "Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.",
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductImage/12849085644881",
+                    "originalSrc": "https://cdn.shopify.com/s/files/1/0112/4181/6145/products/leather-jacket-and-tea_925x_e917107c-d13e-4260-91a6-0ed33f12e7e1.jpg?v=1569860408"
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344579252305",
+                    "title": "xs"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344579285073",
+                    "title": "small"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344579317841",
+                    "title": "medium"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344579350609",
+                    "title": "large"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344579383377",
+                    "title": "xl"
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/30344579416145",
+                    "title": "xxl"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": {
+      "requestedQueryCost": 182,
+      "actualQueryCost": 56,
+      "throttleStatus": {
+        "maximumAvailable": 1000,
+        "currentlyAvailable": 944,
+        "restoreRate": 50
+      }
+    }
+  }
+}
