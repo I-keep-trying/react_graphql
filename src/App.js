@@ -10,7 +10,7 @@ const App = () => {
         if (error) return <p>Looks like we've got a problem...</p>
         return (
           <div className="container">
-            <h1>Articles</h1>
+            <h1>Store dev-store9</h1>
             <div className="row">
               {data.products.edges.map(article => (
                 <div className="col-sm">
